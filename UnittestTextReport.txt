@@ -1,0 +1,215 @@
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... FAIL
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\LvTest\test_mathfunc.py", line 20, in test_divide
+    self.assertEqual(3,divide(5,2))
+AssertionError: 3 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... FAIL
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\LvTest\test_mathfunc.py", line 20, in test_divide
+    self.assertEqual(3,divide(5,2))
+AssertionError: 3 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... FAIL
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\LvTest\test_mathfunc.py", line 20, in test_divide
+    self.assertEqual(3,divide(5,2))
+AssertionError: 3 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... FAIL
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\LvTest\test_mathfunc.py", line 20, in test_divide
+    self.assertEqual(3,divide(5,2))
+AssertionError: 3 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... FAIL
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\LvTest\test_mathfunc.py", line 20, in test_divide
+    self.assertEqual(3,divide(5,2))
+AssertionError: 3 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... FAIL
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\LvTest\test_mathfunc.py", line 26, in test_divide
+    self.assertEqual(4,divide(5,2))
+AssertionError: 4 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... FAIL
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\LvTest\test_mathfunc.py", line 26, in test_divide
+    self.assertEqual(4,divide(5,2))
+AssertionError: 4 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... FAIL
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\LvTest\test_mathfunc.py", line 27, in test_divide
+    self.assertEqual(4,divide(5,2))
+AssertionError: 4 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... FAIL
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\LvTest\test_mathfunc.py", line 27, in test_divide
+    self.assertEqual(4,divide(5,2))
+AssertionError: 4 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... skipped "I don't want to run this case."
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK (skipped=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... skipped "I don't want to run this case."
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK (skipped=1)
+
+
+
+
+
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... skipped "I don't want to run this case."
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK (skipped=1)
+
+
+
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... skipped "I don't want to run this case."
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK (skipped=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... skipped "I don't want to run this case."
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK (skipped=1)
+test_add (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... skipped 'Do not run this.'
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_multi (test_mathfunc.TestMathFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK (skipped=1)
